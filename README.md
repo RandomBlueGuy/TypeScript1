@@ -1,0 +1,1 @@
+# TypeScript1: CHECK THE INDEX.TS FILE 
